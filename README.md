@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This application has two custom dependency libraries [Master](https://github.com/jdhakai1994/master) and [Sales](https://github.com/jdhakai1994/sales). 
 Clone above two projects to you local. Build and package the libraries.
-Run `npm install /path-to-package-in-local-machine/master-lib-x.x.x.tgz`
-Run `npm install /path-to-package-in-local-machine/sales-lib-x.x.x.tgz`
+Run `npm install /relative-path-to-package-in-local-machine/master-lib-x.x.x.tgz`
+Run `npm install /relative-path-to-package-in-local-machine/sales-lib-x.x.x.tgz`
 Run `npm install`
 
 ## Launch Application
