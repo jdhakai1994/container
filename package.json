@@ -20,9 +20,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
-    "master-lib": "file:../master/dist/master-lib/master-lib-0.0.1.tgz",
     "rxjs": "~6.3.3",
-    "sales-lib": "file:../sales/dist/sales-lib/sales-lib-0.0.1.tgz",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
