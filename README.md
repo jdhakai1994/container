@@ -8,7 +8,6 @@ This application has two custom dependency libraries [Master](https://github.com
 Clone above two projects to you local. Build and package the libraries.
 Run `npm install /relative-path-to-package-in-local-machine/master-lib-x.x.x.tgz`
 Run `npm install /relative-path-to-package-in-local-machine/sales-lib-x.x.x.tgz`
-Run `npm install`
 
 ## Launch Application
 
